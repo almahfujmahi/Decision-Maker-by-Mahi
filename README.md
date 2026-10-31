@@ -25,6 +25,5 @@ I built the first version using Google Sheets and its built-in formulas.
 
 The first version is complete. I plan to turn it into a web application using HTML, CSS and JavaScript.
 
-## Made by
-
+Made by
 Abdullah Al Mahfuj Mahi
