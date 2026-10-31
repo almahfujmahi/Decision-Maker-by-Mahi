@@ -1,11 +1,13 @@
 Decision Desk by Mahi
 Decision Desk is a small project I started to make comparing different choices easier.
 The idea is simple. A user can add importance to different criteria, give scores to available options, and compare the final results.
-
+* Preview
+![Decision Desk Preview](decision-desk-preview.png)
  What it does
+ 
 
 1. Compares three different options
-   
+  
 2.Calculates scores based on importance
 
 3.Shows which option has the highest score
