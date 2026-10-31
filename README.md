@@ -1,30 +1,37 @@
  Decision Desk by Mahi
 
-Decision Desk is a small project I started to make comparing different choices easier.
+The original idea and the first Google Sheets version of this project were completely my own work. I came up with the idea, designed the sheet and built the formulas myself.
 
-The idea is simple. A user can add importance to different criteria, give scores to available options, and compare the final results.
+Later, I decided to turn it into a web application. I used AI for a little help with coding, guidance and fixing some issues while building the web version.
 
-#Preview
+About
 
-![Decision Desk Preview](decision-desk-preview.png)
+Decision Desk is a small project I made to help people compare different choices and make decisions more easily.
 
- What it does
+What it does
 
-1. Compares three different options.
-2. Calculates scores based on importance.
-3. Shows which option has the highest score.
-4. Displays a ranking of the options.
-5. Gives a basic risk warning.
-6. Shows the results in a chart.
+* Compare three different options
+* Choose personal priorities
+* Calculate results automatically
+* Show option rankings
+* Provide basic risk analysis
+* Display a comparison graph
 
-*How I made it
+ Built With
 
-I built the first version using Google Sheets and its built-in formulas.
+* Google Sheets
+* HTML
+* CSS
+* JavaScript
 
-* Current status
+Project History
 
-The first version is complete. I plan to turn it into a web application using HTML, CSS and JavaScript.
+It started as a Google Sheets project and later became a web application. The main goal was to keep the original idea but make it easier to use.
+
+Current Status
+
+Version 2.0 is the web version. I plan to keep improving it as I learn more.
 
 Made by
 
-Abdullah Al Mahfuj Mahi
+Abdullah Al Mahfuz Mahi
