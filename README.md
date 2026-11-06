@@ -81,6 +81,9 @@ Some things I would like to work on in the future:
 ## Development Note
 
 The original spreadsheet version was created by me. I later developed the web version with AI assistance while learning and experimenting with web technologies.
+## Live Demo
+
+Try the project here: [Decision Maker by Mahi](https://almahfujmahi.github.io/Decision-Maker-by-Mahi/)
 
 ## Author
 
@@ -89,3 +92,4 @@ The original spreadsheet version was created by me. I later developed the web ve
 Computer Science & Technology Student
 
 [GitHub](https://github.com/almahfujmahi)
+
