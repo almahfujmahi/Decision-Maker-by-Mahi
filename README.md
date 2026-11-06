@@ -4,6 +4,10 @@ A simple tool I made to compare different options and make decisions a little ea
 
 Sometimes choosing between a few options is not that easy. I originally created this project in Google Sheets to organize my thoughts and compare choices. Later, I made a web version to make it easier to use.
 
+## Project Preview
+
+![Decision Maker Preview](screenshots/decision-maker-preview.png)
+
 ## What It Does
 
 The tool compares three options based on selected criteria and helps identify which one may be the better choice.
