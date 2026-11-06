@@ -1,37 +1,87 @@
- Decision Desk by Mahi
+# Decision Maker by Mahi
 
-The original idea and the first Google Sheets version of this project were completely my own work. I came up with the idea, designed the sheet and built the formulas myself.
+A simple tool I made to compare different options and make decisions a little easier.
 
-Later, I decided to turn it into a web application. I used AI for a little help with coding, guidance and fixing some issues while building the web version.
+Sometimes choosing between a few options is not that easy. I originally created this project in Google Sheets to organize my thoughts and compare choices. Later, I made a web version to make it easier to use.
 
-About
+## What It Does
 
-Decision Desk is a small project I made to help people compare different choices and make decisions more easily.
+The tool compares three options based on selected criteria and helps identify which one may be the better choice.
 
-What it does
+### Features
 
-* Compare three different options
-* Choose personal priorities
-* Calculate results automatically
-* Show option rankings
-* Provide basic risk analysis
-* Display a comparison graph
+- Compare three different options.
+- Set priorities using weighted scoring.
+- Calculate scores for each option.
+- Rank options based on their results.
+- View a percentage-based comparison chart.
+- Check basic risks before making a decision.
+- Validate inputs to avoid empty or duplicate options.
 
- Built With
+## Technologies Used
 
-* Google Sheets
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
+- Google Sheets (original version)
 
-Project History
+## Project Files
 
-It started as a Google Sheets project and later became a web application. The main goal was to keep the original idea but make it easier to use.
+```text
+Decision-Maker-by-Mahi/
+│
+├── index.html
+├── style.css
+├── script.js
+├── Excel-Version/
+└── README.md
+```
 
-Current Status
+## How to Use
 
-Version 2.0 is the web version. I plan to keep improving it as I learn more.
+1. Open the project repository.
+2. Download or clone the repository.
+3. Open `index.html` in a web browser.
+4. Enter the options you want to compare.
+5. Select the relevant criteria and priorities.
+6. View the scores, rankings and comparison results.
 
-Made by
+No additional software is required to run the basic web version.
 
-Abdullah Al Mahfuz Mahi
+## What I Learned
+
+While working on this project, I got some practical experience with:
+
+- Working with HTML, CSS and JavaScript.
+- Using JavaScript to handle user input.
+- Applying weighted scoring to compare options.
+- Displaying results in a visual format.
+- Organizing a project into separate files.
+- Improving an existing spreadsheet idea into a web application.
+
+## Limitations
+
+This is a basic decision-support tool, not a system that can guarantee the best decision.
+
+The results depend on the criteria and priorities entered by the user. It is intended for simple comparisons rather than complex or high-risk decisions.
+
+## Future Improvements
+
+Some things I would like to work on in the future:
+
+- Allow users to add more than three options.
+- Make the scoring system more flexible.
+- Improve the overall user interface.
+- Add an option to save comparison results.
+
+## Development Note
+
+The original spreadsheet version was created by me. I later developed the web version with AI assistance while learning and experimenting with web technologies.
+
+## Author
+
+**Mahfuj Mahi**
+
+Computer Science & Technology Student
+
+[GitHub](https://github.com/almahfujmahi)
